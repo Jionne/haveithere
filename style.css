@@ -1,35 +1,37 @@
 h1 {
-  color:red;
+  color:black;
 }
 
 .p1 {
-  font-family: 'Chivo', sans-serif;;
-  border: 1px solid powderblue;
+  font-family: 'Chivo', sans-serif;
+  border: 1px solid black;
 }
 
 .p2 {
-  font-family: sans-serif;
+  font-family: 'Chivo',sans-serif;
+border: 1px solid black;
 }
 
-
-
-
+.p3 {font-family: 'Chivo',sans-serif;
+border: 1px solid black;
+}
 
 body {
   font-family: 'Chivo', sans-serif;
-  background:
-  mar
+}
 
-img {}
+img {
+  width: 300px;
+}
 
 #header {
-  background:
+  background:White
   position:
   z-index:
   widt:
 }
 
-#title
+#title {
   margin-left:
   width:
 }
@@ -54,47 +56,47 @@ p {
   col
   font-famil
   width: 35%;
-  background: black;
+  background: White;
   padding: 15px;
   margin: 20px;
 }
 
 .right {
     float: right;
-    background: black;
+    background: white;
 }
 
 .left {
   float: left;
-  background: black;
+  background: White;
 }
 
 img {}
 
 h1 {
-  color: purple;
-  background: black;
+  color: black;
+  background: white;
   margin: 50px;
   padding: 25px;
-  display: block;
+  display: ;
   margin-left: auto;
   margin-right: auto;
 }
 
 h2 {
   float: right;
-  color: purple;
-  background: black;
+  color: black;
+  background: White;
   width: 40%;
   padding: 15px;
   margin: 20px;
 }
 
 ul {
-  color: purple;
+  color: black;
   font-family: 'Open Sans', sans-serif;
   width: 35%;
-  background: black;
+  background: White;
   padding: 15px;
   margin: 20px;
   list-style-position: inside;
@@ -102,9 +104,9 @@ ul {
 
 ol {
   color
-  font-family:
+  font-family: 'Chivo', sans-serif;
   width: 35%;
-  background: black;
+  background: White;
   padding: 15px;
   margin: 20px;
 }
